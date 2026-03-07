@@ -35,7 +35,7 @@ Mostly working on **Discord bots, Linux setups and random experiments for fun**.
 * Breaking my Arch install (again)
 
 ---
-## 💻 Tech Stack
+## <img src="https://cdn3.emoji.gg/emojis/420694-heart.png" width="22px"> Tech Stack
 
 <img src="https://img.shields.io/badge/Python-1f1f1f?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/discord.py-1f1f1f?style=for-the-badge&logo=discord&logoColor=white"/>
