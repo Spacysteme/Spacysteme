@@ -27,7 +27,7 @@ French indie developer building weird and fun things with code.
 Mostly working on **Discord bots, Linux setups and random experiments for fun**.
 
 ---
-## <img src="https://cdn3.emoji.gg/emojis/420694-heart.png" width="25px"> Currently hacking on
+## <img src="https://cdn3.emoji.gg/emojis/420694-heart.png" width="25px"> Currently hacking on...
 
 * Discord bot experiments
 * Waves Studio projects
