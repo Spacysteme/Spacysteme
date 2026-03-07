@@ -76,3 +76,22 @@ A modern communication platform.
 
 - **All my links**
 > https://guns.lol/spxcy
+
+
+<p align="center">
+<svg width="600" height="120" viewBox="0 0 600 120">
+  <rect x="0" y="90" width="600" height="10" fill="white"/>
+
+  <!-- spikes -->
+  <polygon points="200,90 210,70 220,90" fill="white"/>
+  <polygon points="260,90 270,70 280,90" fill="white"/>
+
+  <!-- cube -->
+  <rect x="50" y="70" width="20" height="20" fill="white">
+    <animate attributeName="x"
+      from="50" to="650"
+      dur="3s"
+      repeatCount="indefinite"/>
+  </rect>
+</svg>
+</p>
