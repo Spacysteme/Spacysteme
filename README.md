@@ -39,7 +39,7 @@ Mostly working on **Discord bots, Linux setups and random experiments for fun**.
 
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/> ✗ <img src="https://img.shields.io/badge/discord.py-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/JavaScript-1f1f1f?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/><img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/><img src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff"/>
+<img src="https://img.shields.io/badge/JavaScript-1f1f1f?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/><img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/><img src="https://img.shields.io/badge/CSS-639?style=for-the-badge&logo=css&logoColor=white"/>
 
 ---
 ## <img src="https://cdn.discordapp.com/emojis/1373717536528400496.png" width="25px">aves Studio
