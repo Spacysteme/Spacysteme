@@ -78,20 +78,63 @@ A modern communication platform.
 > https://guns.lol/spxcy
 
 
-<p align="center">
-<svg width="600" height="120" viewBox="0 0 600 120">
-  <rect x="0" y="90" width="600" height="10" fill="white"/>
+<div class="gd-wrapper">
+<svg viewBox="0 0 800 120" class="gd-level">
 
-  <!-- spikes -->
-  <polygon points="200,90 210,70 220,90" fill="white"/>
-  <polygon points="260,90 270,70 280,90" fill="white"/>
+  <rect x="0" y="100" width="2000" height="20" fill="#2a2a2a"/>
 
-  <!-- cube -->
-  <rect x="50" y="70" width="20" height="20" fill="white">
-    <animate attributeName="x"
-      from="50" to="650"
-      dur="3s"
-      repeatCount="indefinite"/>
-  </rect>
+  <rect x="200" y="70" width="30" height="30" fill="#4fd1c5"/>
+  <rect x="230" y="70" width="30" height="30" fill="#4fd1c5"/>
+
+  <rect x="400" y="60" width="30" height="40" fill="#4fd1c5"/>
+  <rect x="430" y="60" width="30" height="40" fill="#4fd1c5"/>
+
+  <rect x="650" y="80" width="30" height="20" fill="#4fd1c5"/>
+
+  <polygon points="300,100 315,70 330,100" fill="#ff4d6d"/>
+  <polygon points="330,100 345,70 360,100" fill="#ff4d6d"/>
+
+  <polygon points="520,100 535,70 550,100" fill="#ff4d6d"/>
+
 </svg>
-</p>
+
+<svg viewBox="0 0 40 40" class="gd-cube">
+  <rect x="5" y="5" width="30" height="30" fill="#ffd166"/>
+</svg>
+</div>
+
+<style>
+.gd-wrapper{
+  position:relative;
+  width:100%;
+  max-width:800px;
+  height:120px;
+  overflow:hidden;
+  background:#0d0d0d;
+  border-radius:10px;
+}
+
+.gd-level{
+  position:absolute;
+  bottom:0;
+  animation:scroll 6s linear infinite;
+}
+
+.gd-cube{
+  position:absolute;
+  bottom:20px;
+  left:60px;
+  width:40px;
+  animation:bounce 0.6s ease-in-out infinite alternate;
+}
+
+@keyframes scroll{
+  from{transform:translateX(0);}
+  to{transform:translateX(-400px);}
+}
+
+@keyframes bounce{
+  from{transform:translateY(0) rotate(0deg);}
+  to{transform:translateY(-12px) rotate(15deg);}
+}
+</style>
