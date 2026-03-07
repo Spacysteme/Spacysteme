@@ -54,7 +54,7 @@ Creating games and experimental software with friends.
 ---
 ## <img src="https://cdn3.emoji.gg/emojis/531419-friends.png" width="25px"> Friends' projects
 
-### <img src="https://media.discordapp.net/attachments/1324803032487170080/1465479146493706313/logo_1705784166.png?ex=69acabcf&is=69ab5a4f&hm=fb2abfe70f0612a007fa76bd44026250b37317c39d3bcc7834db5e1c2c743f22&=&format=webp&quality=lossless&width=969&height=969" width="25px"> KiwiSocial
+### <img src="https://media.discordapp.net/attachments/1324803032487170080/1465479146493706313/logo_1705784166.png?ex=69acabcf&is=69ab5a4f&hm=fb2abfe70f0612a007fa76bd44026250b37317c39d3bcc7834db5e1c2c743f22&=&format=webp&quality=lossless&width=969&height=969" width="27px"> KiwiSocial
 
 Today is a new day — join KiwiSocial.
 > https://kiwisocial.eu
