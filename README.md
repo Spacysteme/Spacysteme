@@ -13,7 +13,7 @@
 ```
 ---
 ```
-                                              [+]   spacy:~/uinfo   ☰ 🗕 🗙
+                                             [+]   spacy:~/uinfo   ☰ 🗕 🗙
 ```
 ```
 ╔ Welcome!
@@ -35,7 +35,7 @@ Mostly working on **Discord bots, Linux setups and random experiments for fun**.
 * Breaking my Arch install (again)
 
 ---
-## <img src="https://cdn3.emoji.gg/emojis/631835-typing.png" width="25px" align="center"> Tech Stack
+## <img src="https://cdn3.emoji.gg/emojis/631835-typing.png" width="25px"> Tech Stack
 
 <img src="https://img.shields.io/badge/Python-1f1f1f?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/discord.py-1f1f1f?style=for-the-badge&logo=discord&logoColor=white"/>
@@ -52,7 +52,7 @@ Game & software development studio project.
 Creating games and experimental software with friends.
 
 ---
-## <img src="https://cdn3.emoji.gg/emojis/531419-friends.png" width="25px" align="center"> Friends' projects
+## <img src="https://cdn3.emoji.gg/emojis/531419-friends.png" width="25px"> Friends' projects
 
 ### 🥝 KiwiSocial
 
@@ -66,13 +66,13 @@ A modern communication platform.
 
 ---
 
-## <img src="https://cdn3.emoji.gg/emojis/52992-tinder.png" width="25px" align="center"> My Build
+## <img src="https://cdn3.emoji.gg/emojis/52992-tinder.png" width="25px"> My Build
 
 <img src="https://img.shields.io/badge/Arch_Linux-E496A7?style=for-the-badge&logo=arch-linux&logoColor=white"/> <img src="https://img.shields.io/badge/CPU-i5--14400F-E496A7?style=for-the-badge&logo=intel&logoColor=white"/> <img src="https://img.shields.io/badge/GPU-RX_9060_XT-E496A7?style=for-the-badge&logo=amd&logoColor=white"/> <img src="https://img.shields.io/badge/RAM-16GB_DDR4-E496A7?style=for-the-badge"/> <img src="https://img.shields.io/badge/OS-Arch_Linux-E496A7?style=for-the-badge&logo=arch-linux&logoColor=white"/>
 
 ---
 
-## <img src="https://cdn3.emoji.gg/emojis/80963-share2.png" width="25px" align="center"> Contact
+## <img src="https://cdn3.emoji.gg/emojis/80963-share2.png" width="25px"> Contact
 
 - **Discord**
 > [@spacy.ws](https://discord.com/users/882726168736976896)
