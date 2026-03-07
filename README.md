@@ -63,13 +63,11 @@ A modern communication platform.
 > https://spheral.chat
 
 ---
-
 ## <img src="https://cdn3.emoji.gg/emojis/52992-tinder.png" width="25px"> My Build
 
 <img src="https://img.shields.io/badge/Hyprland-E496A7?style=for-the-badge&logo=arch-linux&logoColor=white"/> <img src="https://img.shields.io/badge/CPU-i5--14400F-E496A7?style=for-the-badge&logo=intel&logoColor=white"/> <img src="https://img.shields.io/badge/GPU-RX_9060_XT-E496A7?style=for-the-badge&logo=amd&logoColor=white"/> <img src="https://img.shields.io/badge/RAM-16GB_DDR4-E496A7?style=for-the-badge"/>
 
 ---
-<img src="https://cdn.discordapp.com/emojis/794367694794129409.gif" width="25px" align="right">
 ## <img src="https://cdn3.emoji.gg/emojis/80963-share2.png" width="25px"> Contact
 
 - **Discord**
