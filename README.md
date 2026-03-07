@@ -36,7 +36,7 @@ Mostly working on **Discord bots and random experiments for fun**.
 * Discord bot experiments
 * Waves Studio projects
 * Learning OSINT
-* Breaking my Arch install (again) <img src="https://cdn3.emoji.gg/emojis/78468-spinningfish.gif" width="25px" align="right">
+* Breaking my Arch install (again) <img src="https://cdn3.emoji.gg/emojis/365745-cutecatface.gif" width="25px" align="right">
 
 ---
 ## <img src="https://cdn3.emoji.gg/emojis/631835-typing.png" width="25px"> My languages
@@ -49,9 +49,7 @@ Mostly working on **Discord bots and random experiments for fun**.
 ## <img src="https://cdn.discordapp.com/emojis/1373717536528400496.png" width="25px">aves Studio
 
 Game & software development studio project.
-> https://waves-studio.xyz
-
-Creating games and experimental software with friends.
+> https://waves-studio.xyz <img src="https://cdn3.emoji.gg/emojis/78468-spinningfish.gif" width="25px" align="right">
 
 ---
 ## <img src="https://cdn3.emoji.gg/emojis/531419-friends.png" width="25px"> Friends' projects
