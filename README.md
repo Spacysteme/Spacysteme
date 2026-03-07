@@ -1,8 +1,8 @@
 ![banner](https://kiwisocial.eu/upload/covers/2025/12/fegysMiuGis1ZDqMlFhp_03_d32a6acbfc32c54b80bda39c2cfeec08_image_cover.gif)
 
 ---
-```bash
-`[+]   arch:~/uinfo   ☰ 🗕 🗙`
+```
+[+]   arch:~/uinfo   ☰ 🗕 🗙
 
 ╔ spacy@waves-studio.xyz
 ║ / —Axou* ✗ Spacy'
@@ -38,25 +38,22 @@ Mostly working on **Discord bots, Linux setups and random experiments for fun**.
 ## 🌊 Waves Studio
 
 Game & software development studio project.
-
 > https://waves-studio.xyz
 
 Creating games and experimental software with friends.
 
 ---
 
-## —Friend Projects
+## — Friend Projects
 
 ### 🥝 KiwiSocial
 
 Today is a new day — join KiwiSocial.
-
 > https://kiwisocial.eu
 
 ### 💬 SpheralChat
 
 A modern communication platform.
-
 > https://spheral.chat
 
 ---
@@ -70,10 +67,8 @@ A modern communication platform.
 ## 📫 Contact
 
 **Discord**
-
-> https://discord.com/users/882726168736976896
+> [@spacy.ws](https://discord.com/users/882726168736976896)
 [![Discord Presence](https://lanyard.cnrad.dev/api/882726168736976896?theme=dark\&bg=1f1f1f)](https://discord.com/users/882726168736976896)
 
-**Website**
-
+**All my links**
 > https://guns.lol/spxcy
