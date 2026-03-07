@@ -17,7 +17,7 @@
 
 ---
 ```
-                                           [+]   spacy:~/uinfo   ☰ 🗕 🗙
+                                            [+]   spacy:~/uinfo   ☰ 🗕 🗙
 ```
 ```
 ╔ Welcome!
