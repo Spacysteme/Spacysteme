@@ -13,8 +13,9 @@
 ```
 ---
 ```
-[+]   arch:~/uinfo   ☰ 🗕 🗙
-
+                  [+]   arch:~/uinfo   ☰ 🗕 🗙
+```
+```
 ╔ spacy@waves-studio.xyz
 ║ / —Axou* ✗ Spacy'
 ╚══🜲› https://guns.lol/spxcy
