@@ -13,10 +13,10 @@
 ```
 ---
 ```
-                                              [+]   arch:~/uinfo   ☰ 🗕 🗙
+                                              [+]   spacy:~/uinfo   ☰ 🗕 🗙
 ```
 ```
-╔ [Contacts](https://github.com/Spacysteme/Spacysteme/blob/main/README.md#-contact)
+╔ Welcome!
 ║ / —Axou* ✗ Spacy'
 ╚══🜲› Silence speaks louder under the cherry blossoms
 ```
