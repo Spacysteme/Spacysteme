@@ -44,7 +44,7 @@ Mostly working on **Discord bots, Linux setups and random experiments for fun**.
 <img src="https://img.shields.io/badge/CSS3-1f1f1f?style=for-the-badge&logo=css3&logoColor=white"/>
 
 ---
-## <img src="https://cdn.discordapp.com/emojis/1373717536528400496.png" width="25px"> Waves Studio
+## <img src="https://cdn.discordapp.com/emojis/1373717536528400496.png" width="25px">aves Studio
 
 Game & software development studio project.
 > https://waves-studio.xyz
