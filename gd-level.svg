@@ -3,31 +3,32 @@
 <style>
 @keyframes s{from{transform:translateX(0)}to{transform:translateX(-400px)}}
 @keyframes r{from{transform:rotate(0)}to{transform:rotate(360deg)}}
+
 .l{animation:s 5s linear infinite}
-.c{animation:r 1s linear infinite;transform-origin:center}
+.c{animation:r 1s linear infinite;transform-origin:70px 90px}
 </style>
 
-<!-- niv -->
+<!-- niveau -->
 <g class="l">
+
+<!-- sol -->
 <rect x="0" y="100" width="1600" height="20" fill="#222"/>
 
 <!-- blocs -->
 <rect x="200" y="70" width="30" height="30" fill="#E496A7"/>
 <rect x="230" y="70" width="30" height="30" fill="#E496A7"/>
-
 <rect x="420" y="70" width="30" height="30" fill="#E496A7"/>
 
 <!-- spikes -->
 <polygon points="300,100 315,70 330,100" fill="#ff4d6d"/>
 <polygon points="330,100 345,70 360,100" fill="#ff4d6d"/>
-
 <polygon points="520,100 535,70 550,100" fill="#ff4d6d"/>
-
-</g>
 
 <!-- cube -->
 <g class="c">
 <rect x="60" y="80" width="20" height="20" fill="#ffd166"/>
+</g>
+
 </g>
 
 </svg>
