@@ -72,7 +72,7 @@ A modern communication platform.
 
 ## 🖥 My Build
 
-<img src="https://img.shields.io/badge/Arch_Linux-1f1f1f?style=for-the-badge&logo=arch-linux&logoColor=white"/> <img src="https://img.shields.io/badge/CPU-i5--14400F-E496A7?style=for-the-badge&logo=intel&logoColor=white"/> <img src="https://img.shields.io/badge/GPU-RX_9060_XT-E496A7?style=for-the-badge&logo=amd&logoColor=white"/> <img src="https://img.shields.io/badge/RAM-16GB_DDR4-E496A7?style=for-the-badge"/> <img src="https://img.shields.io/badge/OS-Arch_Linux-E496A7?style=for-the-badge&logo=arch-linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Arch_Linux-E496A7?style=for-the-badge&logo=arch-linux&logoColor=white"/> <img src="https://img.shields.io/badge/CPU-i5--14400F-E496A7?style=for-the-badge&logo=intel&logoColor=white"/> <img src="https://img.shields.io/badge/GPU-RX_9060_XT-E496A7?style=for-the-badge&logo=amd&logoColor=white"/> <img src="https://img.shields.io/badge/RAM-16GB_DDR4-E496A7?style=for-the-badge"/> <img src="https://img.shields.io/badge/OS-Arch_Linux-E496A7?style=for-the-badge&logo=arch-linux&logoColor=white"/>
 
 ---
 
