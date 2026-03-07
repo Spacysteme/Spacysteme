@@ -62,12 +62,12 @@ Today is a new day — join KiwiSocial.
 ### <img src="https://pub-15f1cb766fc84f94b672021fbd51ad3b.r2.dev/emojis/cmlo6a943000504jltabdu0al/cmlo2aw0v000004jsqz4yekk9/5ddb2757-f412-45f6-91fd-2c33354ae5a5.png" width="25px"> SpheralChat
 
 A modern communication platform.
-> https://spheral.chat <img src="https://cdn3.emoji.gg/emojis/15583-oneko-sleep.gif" width="25px" align="right">
+> https://spheral.chat <img src="https://cdn3.emoji.gg/emojis/5703-c-normla.png" width="25px" align="right">
 
 ---
 ## <img src="https://cdn3.emoji.gg/emojis/52992-tinder.png" width="25px"> My Build
 
-<img src="https://img.shields.io/badge/Hyprland-E496A7?style=for-the-badge&logo=arch-linux&logoColor=white"/> <img src="https://img.shields.io/badge/CPU-i5--14400F-E496A7?style=for-the-badge&logo=intel&logoColor=white"/> <img src="https://img.shields.io/badge/GPU-RX_9060_XT-E496A7?style=for-the-badge&logo=amd&logoColor=white"/> <img src="https://img.shields.io/badge/RAM-16GB_DDR4-E496A7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Hyprland-E496A7?style=for-the-badge&logo=arch-linux&logoColor=white"/> <img src="https://img.shields.io/badge/CPU-i5--14400F-E496A7?style=for-the-badge&logo=intel&logoColor=white"/> <img src="https://img.shields.io/badge/GPU-RX_9060_XT-E496A7?style=for-the-badge&logo=amd&logoColor=white"/> <img src="https://img.shields.io/badge/RAM-16GB_DDR4-E496A7?style=for-the-badge"/> <img src="https://cdn3.emoji.gg/emojis/15583-oneko-sleep.gif" width="25px" align="right">
 
 ---
 ## <img src="https://cdn3.emoji.gg/emojis/80963-share2.png" width="25px"> Contact
