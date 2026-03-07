@@ -35,7 +35,7 @@ Mostly working on **Discord bots, Linux setups and random experiments for fun**.
 * Breaking my Arch install (again)
 
 ---
-## <img src="https://cdn3.emoji.gg/emojis/631835-typing.png" width="25px"> Tech Stack
+## <img src="https://cdn3.emoji.gg/emojis/631835-typing.png" width="25px"> </>
 
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/> ✗ <img src="https://img.shields.io/badge/discord.py-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 
