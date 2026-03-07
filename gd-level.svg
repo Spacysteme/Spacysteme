@@ -1,17 +1,38 @@
 <svg viewBox="0 0 800 120" xmlns="http://www.w3.org/2000/svg">
 
 <style>
-@keyframes s{from{transform:translateX(0)}to{transform:translateX(-400px)}}
-@keyframes r{from{transform:rotate(0)}to{transform:rotate(360deg)}}
+@keyframes scroll{from{transform:translateX(0)}to{transform:translateX(-400px)}}
 
-.l{animation:s 5s linear infinite}
-.c{animation:r 1s linear infinite;transform-origin:70px 90px}
+@keyframes spin{
+from{rotate:0deg}
+to{rotate:360deg}
+}
+
+@keyframes jump{
+0%,20%{transform:translateY(0)}
+30%{transform:translateY(-35px)}
+40%{transform:translateY(0)}
+
+50%,70%{transform:translateY(0)}
+80%{transform:translateY(-35px)}
+90%{transform:translateY(0)}
+
+100%{transform:translateY(0)}
+}
+
+.level{animation:scroll 5s linear infinite}
+
+.cube{
+transform-origin:70px 90px;
+animation:
+spin 1s linear infinite,
+jump 5s linear infinite;
+}
 </style>
 
 <!-- niveau -->
-<g class="l">
+<g class="level">
 
-<!-- sol -->
 <rect x="0" y="100" width="1600" height="20" fill="#222"/>
 
 <!-- blocs -->
@@ -24,11 +45,9 @@
 <polygon points="330,100 345,70 360,100" fill="#ff4d6d"/>
 <polygon points="520,100 535,70 550,100" fill="#ff4d6d"/>
 
-<!-- cube -->
-<g class="c">
-<rect x="60" y="80" width="20" height="20" fill="#ffd166"/>
 </g>
 
-</g>
+<!-- cube -->
+<rect class="cube" x="60" y="80" width="20" height="20" fill="#ffd166"/>
 
 </svg>
