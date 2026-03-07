@@ -27,7 +27,7 @@ French indie developer building weird and fun things with code.
 Mostly working on **Discord bots, Linux setups and random experiments for fun**.
 
 ---
-## — Currently hacking on
+## <img src="https://cdn3.emoji.gg/emojis/420694-heart.png" width="30px"> Currently hacking on
 
 * Discord bot experiments
 * Waves Studio projects
@@ -35,7 +35,7 @@ Mostly working on **Discord bots, Linux setups and random experiments for fun**.
 * Breaking my Arch install (again)
 
 ---
-## <img src="https://cdn3.emoji.gg/emojis/420694-heart.png" width="24px"> Tech Stack
+## Tech Stack
 
 <img src="https://img.shields.io/badge/Python-1f1f1f?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/discord.py-1f1f1f?style=for-the-badge&logo=discord&logoColor=white"/>
