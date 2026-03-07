@@ -13,7 +13,7 @@
 ```
 ---
 ```
-                                                    [+]   arch:~/uinfo   ☰ 🗕 🗙
+                                              [+]   arch:~/uinfo   ☰ 🗕 🗙
 ```
 ```
 ╔ spacy@waves-studio.xyz
