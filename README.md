@@ -52,7 +52,7 @@ Game & software development studio project.
 Creating games and experimental software with friends.
 
 ---
-## <img src="https://cdn3.emoji.gg/emojis/531419-friends.png" width="25px"> Friend Projects
+## <img src="https://cdn3.emoji.gg/emojis/531419-friends.png" width="25px"> Friends' projects
 
 ### 🥝 KiwiSocial
 
