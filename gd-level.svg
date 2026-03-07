@@ -7,9 +7,6 @@
 .c{animation:r 1s linear infinite;transform-origin:center}
 </style>
 
-<!-- fond -->
-<rect width="800" height="120" fill="#0d0d0d"/>
-
 <!-- niveau -->
 <g class="l">
 
