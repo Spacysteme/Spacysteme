@@ -1,53 +1,42 @@
 <svg viewBox="0 0 800 120" xmlns="http://www.w3.org/2000/svg">
 
 <style>
-@keyframes scroll{from{transform:translateX(0)}to{transform:translateX(-400px)}}
-
-@keyframes spin{
-from{rotate:0deg}
-to{rotate:360deg}
+@keyframes scroll{
+  from{transform:translateX(0);}
+  to{transform:translateX(-400px);}
 }
 
+/* jump avec rotation 90° */
 @keyframes jump{
-0%,20%{transform:translateY(0)}
-30%{transform:translateY(-35px)}
-40%{transform:translateY(0)}
-
-50%,70%{transform:translateY(0)}
-80%{transform:translateY(-35px)}
-90%{transform:translateY(0)}
-
-100%{transform:translateY(0)}
+  0%,20%,50%,70%,100% {transform:translateY(0) rotate(0deg);}
+  25%,55% {transform:translateY(-30px) rotate(90deg);}
 }
 
-.level{animation:scroll 5s linear infinite}
+.level{animation:scroll 5s linear infinite;}
 
+/* cube avec image skin + jump */
 .cube{
-transform-origin:70px 90px;
-animation:
-spin 1s linear infinite,
-jump 5s linear infinite;
+  animation:jump 5s linear infinite;
+  transform-origin:10px 10px; /* centre du cube */
 }
 </style>
 
 <!-- niveau -->
 <g class="level">
+  <rect x="0" y="100" width="1600" height="20" fill="#222"/>
 
-<rect x="0" y="100" width="1600" height="20" fill="#222"/>
+  <!-- blocs -->
+  <rect x="200" y="70" width="20" height="20" fill="#E496A7"/>
+  <rect x="230" y="70" width="20" height="20" fill="#E496A7"/>
+  <rect x="420" y="70" width="20" height="20" fill="#E496A7"/>
 
-<!-- blocs -->
-<rect x="200" y="70" width="30" height="30" fill="#E496A7"/>
-<rect x="230" y="70" width="30" height="30" fill="#E496A7"/>
-<rect x="420" y="70" width="30" height="30" fill="#E496A7"/>
-
-<!-- spikes -->
-<polygon points="300,100 315,70 330,100" fill="#ff4d6d"/>
-<polygon points="330,100 345,70 360,100" fill="#ff4d6d"/>
-<polygon points="520,100 535,70 550,100" fill="#ff4d6d"/>
-
+  <!-- spikes -->
+  <rect x="300" y="70" width="20" height="20" fill="#ff4d6d"/>
+  <rect x="330" y="70" width="20" height="20" fill="#ff4d6d"/>
+  <rect x="520" y="70" width="20" height="20" fill="#ff4d6d"/>
 </g>
 
-<!-- cube -->
-<rect class="cube" x="60" y="80" width="20" height="20" fill="#ffd166"/>
+<!-- cube avec image -->
+<image class="cube" x="60" y="80" width="20" height="20" href="https://cdn.discordapp.com/attachments/1360720268053577789/1479878649476944133/cube_373.png?ex=69ada3e4&is=69ac5264&hm=60b021ae023100a8df8c12f26fb5df606e2391b10a12b75341f8e4c014e00b50&"/>
 
 </svg>
