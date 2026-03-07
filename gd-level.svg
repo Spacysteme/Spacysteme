@@ -13,6 +13,7 @@
   10% { transform: translateY(-30px); }  /* spike seul */
   30% { transform: translateY(-35px); }  /* mini spike + spike */
   60% { transform: translateY(-25px); }  /* deux spikes + cube */
+  65% { transform: translateY(0); }      /* retombe sur sol */
   75% { transform: translateY(-20px); }      /* retombe sur sol */
   80% { transform: translateY(0); }      /* retombe sur sol */
 }
