@@ -35,9 +35,6 @@ Mostly working on **Discord bots, Linux setups and random experiments for fun**.
 * Breaking my Arch install (again)
 
 ---
-![snake gif](https://raw.githubusercontent.com/Spacysteme/Spacysteme/output/github-contribution-grid-snake.svg)
-
----
 ## 💻 Tech Stack
 
 <img src="https://img.shields.io/badge/Python-1f1f1f?style=for-the-badge&logo=python&logoColor=white"/>
@@ -55,7 +52,6 @@ Game & software development studio project.
 Creating games and experimental software with friends.
 
 ---
-
 ## — Friend Projects
 
 ### 🥝 KiwiSocial
