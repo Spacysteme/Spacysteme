@@ -1,42 +1,41 @@
 <svg viewBox="0 0 800 120" xmlns="http://www.w3.org/2000/svg">
 
 <style>
-@keyframes scroll{
-  from{transform:translateX(0);}
-  to{transform:translateX(-400px);}
+@keyframes scroll {
+  from { transform: translateX(0); }
+  to   { transform: translateX(-400px); }
 }
 
-/* jump avec rotation 90° */
-@keyframes jump{
-  0%,20%,50%,70%,100% {transform:translateY(0) rotate(0deg);}
-  25%,55% {transform:translateY(-30px) rotate(90deg);}
+/* Jump vertical + rotation 90° */
+@keyframes jump {
+  0%,20%,50%,70%,100% { transform: translateY(0) rotate(0deg); }
+  25%,55%               { transform: translateY(-30px) rotate(90deg); }
 }
 
-.level{animation:scroll 5s linear infinite;}
-
-/* cube avec image skin + jump */
-.cube{
-  animation:jump 5s linear infinite;
-  transform-origin:10px 10px; /* centre du cube */
+.level { animation: scroll 5s linear infinite; }
+.cube { 
+  animation: jump 5s linear infinite; 
+  transform-origin: 10px 10px; /* centre du cube */
 }
 </style>
 
-<!-- niveau -->
+<!-- Niveau -->
 <g class="level">
+  <!-- Sol -->
   <rect x="0" y="100" width="1600" height="20" fill="#222"/>
 
-  <!-- blocs -->
-  <rect x="200" y="70" width="20" height="20" fill="#E496A7"/>
-  <rect x="230" y="70" width="20" height="20" fill="#E496A7"/>
-  <rect x="420" y="70" width="20" height="20" fill="#E496A7"/>
+  <!-- Blocs (20x20) -->
+  <rect x="200" y="80" width="20" height="20" fill="#E496A7"/>
+  <rect x="230" y="80" width="20" height="20" fill="#E496A7"/>
+  <rect x="420" y="80" width="20" height="20" fill="#E496A7"/>
 
-  <!-- spikes -->
-  <rect x="300" y="70" width="20" height="20" fill="#ff4d6d"/>
-  <rect x="330" y="70" width="20" height="20" fill="#ff4d6d"/>
-  <rect x="520" y="70" width="20" height="20" fill="#ff4d6d"/>
+  <!-- Spikes (toujours 20x20 mais en triangle) -->
+  <polygon points="300,100 310,80 320,100" fill="#ff4d6d"/>
+  <polygon points="330,100 340,80 350,100" fill="#ff4d6d"/>
+  <polygon points="520,100 530,80 540,100" fill="#ff4d6d"/>
 </g>
 
-<!-- cube avec image -->
+<!-- Cube avec skin -->
 <image class="cube" x="60" y="80" width="20" height="20" href="https://imgur.com/XDeY9L5"/>
 
 </svg>
