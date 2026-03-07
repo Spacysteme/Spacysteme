@@ -6,36 +6,40 @@
   to   { transform: translateX(-400px); }
 }
 
-/* Jump vertical + rotation 90° */
+/* Jump simulé pour chaque “obstacle” */
 @keyframes jump {
-  0%,20%,50%,70%,100% { transform: translateY(0) rotate(0deg); }
-  25%,55%               { transform: translateY(-30px) rotate(90deg); }
+  0%,15%,35%,55%,75%,100% { transform: translateY(0) rotate(0deg); }
+  20% { transform: translateY(-30px) rotate(90deg); } /* spike seul */
+  40% { transform: translateY(-35px) rotate(90deg); } /* spike+mini */
+  60% { transform: translateY(-25px) rotate(90deg); } /* deux spikes + cube */
 }
 
 .level { animation: scroll 5s linear infinite; }
 .cube { 
   animation: jump 5s linear infinite; 
-  transform-origin: 10px 10px; /* centre du cube */
+  transform-origin: 10px 10px;
 }
 </style>
 
-<!-- Cube avec skin -->
-<image class="cube" x="60" y="80" width="20" height="20" href="https://imgur.com/XDeY9L5"/>
-
 <!-- Niveau -->
 <g class="level">
-  <!-- Sol -->
+  <!-- sol -->
   <rect x="0" y="100" width="1600" height="20" fill="#222"/>
 
-  <!-- Blocs (20x20) -->
-  <rect x="310" y="80" width="20" height="20" fill="#E496A7"/>
-  <rect x="209" y="80" width="20" height="20" fill="#E496A7"/>
-  <rect x="420" y="80" width="20" height="20" fill="#E496A7"/>
+  <!-- Spike seul -->
+  <polygon points="200,100 210,80 220,100" fill="#ff4d6d"/>
 
-  <!-- Spikes (toujours 20x20 mais en triangle) -->
-  <polygon points="300,100 200,80 200,100" fill="#ff4d6d"/>
-  <polygon points="330,100 340,80 350,100" fill="#ff4d6d"/>
-  <polygon points="520,100 530,80 540,100" fill="#ff4d6d"/>
+  <!-- Mini spike + spike -->
+  <polygon points="280,100 290,80 300,100" fill="#ff4d6d"/>
+  <polygon points="300,100 310,80 320,100" fill="#ff4d6d"/>
+
+  <!-- Deux spikes + cube -->
+  <polygon points="400,100 410,80 420,100" fill="#ff4d6d"/>
+  <polygon points="420,100 430,80 440,100" fill="#ff4d6d"/>
+  <rect x="440" y="80" width="20" height="20" fill="#e496a7"/>
 </g>
+
+<!-- Cube -->
+<rect class="cube" x="180" y="80" width="20" height="20" fill="#e496a7"/>
 
 </svg>
