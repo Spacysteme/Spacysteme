@@ -19,6 +19,9 @@
 }
 </style>
 
+<!-- Cube avec skin -->
+<image class="cube" x="60" y="80" width="20" height="20" href="https://imgur.com/XDeY9L5"/>
+
 <!-- Niveau -->
 <g class="level">
   <!-- Sol -->
@@ -34,8 +37,5 @@
   <polygon points="330,100 340,80 350,100" fill="#ff4d6d"/>
   <polygon points="520,100 530,80 540,100" fill="#ff4d6d"/>
 </g>
-
-<!-- Cube avec skin -->
-<image class="cube" x="60" y="80" width="20" height="20" href="https://imgur.com/XDeY9L5"/>
 
 </svg>
