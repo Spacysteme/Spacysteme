@@ -3,7 +3,7 @@
 <style>
 @keyframes scroll {
   from { transform: translateX(0); }
-  to   { transform: translateX(-400px); }
+  to   { transform: translateX(-800px); }
 }
 
 @keyframes jump {
@@ -16,24 +16,46 @@
   80% { transform: translateY(0); }
 }
 
-.level { animation: scroll 5s linear infinite; }
+.world {
+  animation: scroll 5s linear infinite;
+}
+
 .cube { 
   animation: jump 5s linear infinite; 
 }
 </style>
 
-<!-- Niv -->
-<g class="level">
-  <rect x="0" y="100" width="1600" height="20" fill="#222"/>
+<!-- Monde -->
+<g class="world">
 
-  <polygon points="200,100 210,80 220,100" fill="#ff4d6d"/>
+  <!-- Niveau 1 -->
+  <g>
+    <rect x="0" y="100" width="800" height="20" fill="#222"/>
 
-  <polygon points="280,100 290,80 300,100" fill="#ff4d6d"/>
-  <polygon points="300,100 310,80 320,100" fill="#ff4d6d"/>
+    <polygon points="200,100 210,80 220,100" fill="#ff4d6d"/>
 
-  <polygon points="400,100 410,80 420,100" fill="#ff4d6d"/>
-  <polygon points="420,100 430,80 440,100" fill="#ff4d6d"/>
-  <rect x="440" y="80" width="20" height="20" fill="#e496a7"/>
+    <polygon points="280,100 290,80 300,100" fill="#ff4d6d"/>
+    <polygon points="300,100 310,80 320,100" fill="#ff4d6d"/>
+
+    <polygon points="400,100 410,80 420,100" fill="#ff4d6d"/>
+    <polygon points="420,100 430,80 440,100" fill="#ff4d6d"/>
+    <rect x="440" y="80" width="20" height="20" fill="#e496a7"/>
+  </g>
+
+  <!-- Niveau 2 (copie) -->
+  <g transform="translate(800,0)">
+    <rect x="0" y="100" width="800" height="20" fill="#222"/>
+
+    <polygon points="200,100 210,80 220,100" fill="#ff4d6d"/>
+
+    <polygon points="280,100 290,80 300,100" fill="#ff4d6d"/>
+    <polygon points="300,100 310,80 320,100" fill="#ff4d6d"/>
+
+    <polygon points="400,100 410,80 420,100" fill="#ff4d6d"/>
+    <polygon points="420,100 430,80 440,100" fill="#ff4d6d"/>
+    <rect x="440" y="80" width="20" height="20" fill="#e496a7"/>
+  </g>
+
 </g>
 
 <!-- Cube -->
