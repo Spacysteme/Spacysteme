@@ -59,7 +59,7 @@ Creating games and experimental software with friends.
 Today is a new day — join KiwiSocial.
 > https://kiwisocial.eu
 
-### 💬 SpheralChat
+### <img src="https://pub-15f1cb766fc84f94b672021fbd51ad3b.r2.dev/emojis/cmlo6a943000504jltabdu0al/cmlo2aw0v000004jsqz4yekk9/5ddb2757-f412-45f6-91fd-2c33354ae5a5.png" width="25px"> SpheralChat
 
 A modern communication platform.
 > https://spheral.chat
