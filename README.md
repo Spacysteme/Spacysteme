@@ -1,4 +1,4 @@
-![banner](https://kiwisocial.eu/upload/covers/2025/12/fegysMiuGis1ZDqMlFhp_03_d32a6acbfc32c54b80bda39c2cfeec08_image_cover.gif)
+![banner](https://media.discordapp.net/attachments/969684830591778866/1479634623037309179/cherry-blossom-sakura-flower-anime-z9ba7sbrvib4uj8u.png?ex=69acc0a0&is=69ab6f20&hm=914a4a6004851a46bf9ae74c41bd6f4d96635b8456978625328207731bfc6806&=&format=webp&quality=lossless&width=548&height=308)
 
 ---
 ```
