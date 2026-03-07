@@ -1,10 +1,9 @@
 ![banner](https://kiwisocial.eu/upload/covers/2025/12/fegysMiuGis1ZDqMlFhp_03_d32a6acbfc32c54b80bda39c2cfeec08_image_cover.gif)
 
 ---
-
-# `[+]   arch:~/uinfo   ☰ 🗕 🗙`
-
 ```bash
+`[+]   arch:~/uinfo   ☰ 🗕 🗙`
+
 ╔ spacy@waves-studio.xyz
 ║ / —Axou* ✗ Spacy'
 ╚══🜲› https://guns.lol/spxcy
@@ -16,36 +15,17 @@ French indie developer building weird and fun things with code.
 Mostly working on **Discord bots, Linux setups and random experiments for fun**.
 
 ---
-
-## 🧠 Currently hacking on
+## —Currently hacking on
 
 * Discord bot experiments
 * Waves Studio projects
-* Learning OSINT techniques
+* Learning OSINT
 * Breaking my Arch install (again)
 
 ---
-
-## 👾 Discord Status
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/882726168736976896?theme=dark\&bg=1f1f1f)](https://discord.com/users/882726168736976896)
-
----
-
-## ⚡ GitHub Stats
-
-![Spacy Stats](https://github-readme-stats.vercel.app/api?username=Spacysteme\&theme=tokyonight\&show_icons=true\&hide_border=true\&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Spacysteme\&layout=compact\&theme=tokyonight\&hide_border=true)
-
----
-
-## 🐍 Contribution Snake
-
 ![snake gif](https://raw.githubusercontent.com/Spacysteme/Spacysteme/output/github-contribution-grid-snake.svg)
 
 ---
-
 ## 💻 Tech Stack
 
 <img src="https://img.shields.io/badge/Python-1f1f1f?style=for-the-badge&logo=python&logoColor=white"/>
@@ -55,18 +35,7 @@ Mostly working on **Discord bots, Linux setups and random experiments for fun**.
 <img src="https://img.shields.io/badge/CSS3-1f1f1f?style=for-the-badge&logo=css3&logoColor=white"/>
 
 ---
-
-## 🐧 Environment
-
-<img src="https://img.shields.io/badge/Arch_Linux-1f1f1f?style=for-the-badge&logo=arch-linux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hyprland-1f1f1f?style=for-the-badge&logo=wayland&logoColor=white"/>
-<img src="https://img.shields.io/badge/GNOME-1f1f1f?style=for-the-badge&logo=gnome&logoColor=white"/>
-
----
-
-## 🚀 Main Project
-
-### 🌊 Waves Studio
+## 🌊 Waves Studio
 
 Game & software development studio project.
 
@@ -76,7 +45,7 @@ Creating games and experimental software with friends.
 
 ---
 
-## 🤝 Friend Projects
+## —Friend Projects
 
 ### 🥝 KiwiSocial
 
@@ -94,10 +63,7 @@ A modern communication platform.
 
 ## 🖥 My Build
 
-<img src="https://img.shields.io/badge/CPU-i5--14400F-E496A7?style=for-the-badge&logo=intel&logoColor=white"/>
-<img src="https://img.shields.io/badge/GPU-RX_9060_XT-E496A7?style=for-the-badge&logo=amd&logoColor=white"/>
-<img src="https://img.shields.io/badge/RAM-16GB_DDR4-E496A7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OS-Arch_Linux-E496A7?style=for-the-badge&logo=arch-linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Arch_Linux-1f1f1f?style=for-the-badge&logo=arch-linux&logoColor=white"/> <img src="https://img.shields.io/badge/CPU-i5--14400F-E496A7?style=for-the-badge&logo=intel&logoColor=white"/> <img src="https://img.shields.io/badge/GPU-RX_9060_XT-E496A7?style=for-the-badge&logo=amd&logoColor=white"/> <img src="https://img.shields.io/badge/RAM-16GB_DDR4-E496A7?style=for-the-badge"/> <img src="https://img.shields.io/badge/OS-Arch_Linux-E496A7?style=for-the-badge&logo=arch-linux&logoColor=white"/>
 
 ---
 
@@ -106,6 +72,7 @@ A modern communication platform.
 **Discord**
 
 > https://discord.com/users/882726168736976896
+[![Discord Presence](https://lanyard.cnrad.dev/api/882726168736976896?theme=dark\&bg=1f1f1f)](https://discord.com/users/882726168736976896)
 
 **Website**
 
