@@ -18,7 +18,7 @@
 ```
 ╔ Welcome!
 ║ / —Axou* ✗ Spacy'
-╚══🜲› Silence speaks louder under the cherry blossoms
+╚══🜲› Silence speaks louder under the cherry blossoms ❀
 ```
 
 <img src="https://cdn3.emoji.gg/emojis/67313-whitebalisong.gif" width="22px">   **OSINT & Discord bot developer**
