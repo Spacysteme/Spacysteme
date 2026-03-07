@@ -14,6 +14,7 @@
 <p align="center">
   <img src="https://cdn.discordapp.com/attachments/669640108168970303/1479663579086196827/GiffinColorize.gif?ex=69acdb98&is=69ab8a18&hm=1dfbe48d60795f50684db27fa63decba47b2009a42c4b9af07efea5f46a9094b&" width="50px">
 </p>
+
 ---
 ```
                                              [+]   spacy:~/uinfo   ☰ 🗕 🗙
