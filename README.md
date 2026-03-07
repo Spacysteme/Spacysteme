@@ -16,9 +16,9 @@
                                               [+]   arch:~/uinfo   ☰ 🗕 🗙
 ```
 ```
-╔ spacy@waves-studio.xyz
+╔ [Contacts](https://github.com/Spacysteme/Spacysteme/blob/main/README.md#-contact)
 ║ / —Axou* ✗ Spacy'
-╚══🜲› https://guns.lol/spxcy
+╚══🜲› Silence speaks louder under the cherry blossoms
 ```
 
 <img src="https://cdn3.emoji.gg/emojis/67313-whitebalisong.gif" width="22px">   **OSINT & Discord bot developer**
