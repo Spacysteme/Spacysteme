@@ -80,8 +80,7 @@ A modern communication platform.
 
 - **Discord**
 > [@spacy.ws](https://discord.com/users/882726168736976896)
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/882726168736976896?theme=dark&bg=E496A7&borderRadius=10&idleMessage=%E2%8C%A4.%E1%90%9F)](https://discord.com/users/882726168736976896)
+[![Discord Presence](https://lanyard.cnrad.dev/api/882726168736976896?theme=dark&bg=E496A7&borderRadius=10&idleMessage=%E2%8C%A4.%E1%90%9F&hideStatus=true&hideSpotify=true&hideActivity=true&hideBadges=true&hideTimestamp=true&showDisplayName=true)](https://discord.com/users/882726168736976896)
 
 - **All my links**
 > https://guns.lol/spxcy
