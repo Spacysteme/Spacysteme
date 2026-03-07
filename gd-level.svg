@@ -33,7 +33,7 @@
   <rect x="420" y="80" width="20" height="20" fill="#E496A7"/>
 
   <!-- Spikes (toujours 20x20 mais en triangle) -->
-  <polygon points="300,100 200,80 320,100" fill="#ff4d6d"/>
+  <polygon points="300,100 200,80 210,100" fill="#ff4d6d"/>
   <polygon points="330,100 340,80 350,100" fill="#ff4d6d"/>
   <polygon points="520,100 530,80 540,100" fill="#ff4d6d"/>
 </g>
