@@ -8,16 +8,24 @@
 
 @keyframes jumpY {
 17% { transform: translateY(0px); }
-20% { transform: translateY(-40px); } /* départ du saut */
-28% { transform: translateY(0px); } /* départ du saut */
-29.7% { transform: translateY(-40px); } /* départ du saut */
+20% { transform: translateY(-40px); }
+28% { transform: translateY(0px); }
+29.7% { transform: translateY(-40px); }
+31% { transform: translateY(-40px); }
 38% { transform: translateY(0px); }
 40% { transform: translateY(-30px); }
 45% { transform: translateY(-20px); }
-47% { transform: translateY(-10px); }
-49% { transform: translateY(-5px); }
+47.4% { transform: translateY(-20px); }
 50% { transform: translateY(0px); }
-
+52% { transform: translateY(-40px); }
+55.5% { transform: translateY(-18px); }
+59% { transform: translateY(-50px); }
+60% { transform: translateY(-40px); }
+63% { transform: translateY(-40px); }
+65% { transform: translateY(-0px); }
+69.6% { transform: translateY(-40px); }
+72% { transform: translateY(-40px); }
+80% { transform: translateY(0px); }
 }
 
 .cubeMove {
