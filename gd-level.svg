@@ -23,9 +23,11 @@
 60% { transform: translateY(-40px); }
 63% { transform: translateY(-40px); }
 65% { transform: translateY(-0px); }
-69.6% { transform: translateY(-40px); }
-72% { transform: translateY(-40px); }
-80% { transform: translateY(0px); }
+74.5% { transform: translateY(-40px); }
+75% { transform: translateY(-30px); }
+76% { transform: translateY(-20px); }
+77% { transform: translateY(-10px); }
+78% { transform: translateY(0px); }
 }
 
 .cubeMove {
@@ -37,39 +39,33 @@
 }
 </style>
 
-<!-- SOL -->
+<!-- S -->
 <rect x="0" y="100" width="800" height="20" fill="#222"/>
 
-<!-- LEVEL -->
+<!-- L -->
 <g id="level">
 
-<!-- 🔺 -->
 <polygon points="120,100 130,80 140,100" fill="#ff4d6d"/>
 
-<!-- 🔺🔺 -->
 <polygon points="200,100 210,80 220,100" fill="#ff4d6d"/>
 <polygon points="220,100 230,80 240,100" fill="#ff4d6d"/>
 
-<!-- 🔺🔺🟥 -->
 <polygon points="300,100 310,80 320,100" fill="#ff4d6d"/>
 <polygon points="320,100 330,80 340,100" fill="#ff4d6d"/>
 <rect x="340" y="80" width="20" height="20" fill="#e496a7"/>
 
-<!-- 🟥 -->
 <rect x="460" y="80" width="20" height="20" fill="#e496a7"/>
 
-<!-- 🟥 +1 -->
 <rect x="500" y="80" width="20" height="20" fill="#e496a7"/>
 <rect x="500" y="60" width="20" height="20" fill="#e496a7"/>
 
-<!-- 🔺🔺🔺 -->
 <polygon points="620,100 630,80 640,100" fill="#ff4d6d"/>
 <polygon points="640,100 650,80 660,100" fill="#ff4d6d"/>
 <polygon points="660,100 670,80 680,100" fill="#ff4d6d"/>
 
 </g>
 
-<!-- CUBE -->
+<!-- C -->
 <g class="cubeMove">
   <g class="cubeJump">
     <rect x="0" y="80" width="20" height="20" fill="#e496a7"/>
