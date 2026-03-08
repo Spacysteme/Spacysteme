@@ -2,39 +2,64 @@
 
 <style>
 @keyframes moveX {
-  from { transform: translateX(0); }
-  to { transform: translateX(780px); }
+  from { transform: translateX(-120px); }
+  to { transform: translateX(920px); }
 }
 
 @keyframes jumpY {
-  0%,20%,40%,60%,80%,100% { transform: translateY(0); }
-  10% { transform: translateY(-30px); }
-  30% { transform: translateY(-35px); }
-  60% { transform: translateY(-25px); }
-  75% { transform: translateY(-20px); }
+17% { transform: translateY(0px); }
+20% { transform: translateY(-40px); } /* départ du saut */
+28% { transform: translateY(0px); } /* départ du saut */
+29.7% { transform: translateY(-40px); } /* départ du saut */
+38% { transform: translateY(0px); }
+40% { transform: translateY(-30px); }
+45% { transform: translateY(-20px); }
+47% { transform: translateY(-10px); }
+49% { transform: translateY(-5px); }
+50% { transform: translateY(0px); }
+
 }
 
 .cubeMove {
-  animation: moveX 5s linear infinite;
+  animation: moveX 6s linear infinite;
 }
 
 .cubeJump {
-  animation: jumpY 5s linear infinite;
+  animation: jumpY 6s linear infinite;
 }
 </style>
 
-<!-- NIVEAU (statique) -->
+<!-- SOL -->
 <rect x="0" y="100" width="800" height="20" fill="#222"/>
 
+<!-- LEVEL -->
+<g id="level">
+
+<!-- 🔺 -->
+<polygon points="120,100 130,80 140,100" fill="#ff4d6d"/>
+
+<!-- 🔺🔺 -->
 <polygon points="200,100 210,80 220,100" fill="#ff4d6d"/>
+<polygon points="220,100 230,80 240,100" fill="#ff4d6d"/>
 
-<polygon points="280,100 290,80 300,100" fill="#ff4d6d"/>
+<!-- 🔺🔺🟥 -->
 <polygon points="300,100 310,80 320,100" fill="#ff4d6d"/>
+<polygon points="320,100 330,80 340,100" fill="#ff4d6d"/>
+<rect x="340" y="80" width="20" height="20" fill="#e496a7"/>
 
-<polygon points="400,100 410,80 420,100" fill="#ff4d6d"/>
-<polygon points="420,100 430,80 440,100" fill="#ff4d6d"/>
+<!-- 🟥 -->
+<rect x="460" y="80" width="20" height="20" fill="#e496a7"/>
 
-<rect x="440" y="80" width="20" height="20" fill="#e496a7"/>
+<!-- 🟥 +1 -->
+<rect x="500" y="80" width="20" height="20" fill="#e496a7"/>
+<rect x="500" y="60" width="20" height="20" fill="#e496a7"/>
+
+<!-- 🔺🔺🔺 -->
+<polygon points="620,100 630,80 640,100" fill="#ff4d6d"/>
+<polygon points="640,100 650,80 660,100" fill="#ff4d6d"/>
+<polygon points="660,100 670,80 680,100" fill="#ff4d6d"/>
+
+</g>
 
 <!-- CUBE -->
 <g class="cubeMove">
