@@ -21,7 +21,7 @@
 ```
 ```
 ╔ Welcome!
-║ / —Axou* ✗ Spacy'
+║ / —Impossibol04 ✗ Spacysteme
 ╚══🜲› Silence speaks louder under the cherry blossoms ❀
 ```
 
@@ -34,7 +34,6 @@ Mostly working on **Discord bots and random experiments for fun**.
 ## <img src="https://cdn3.emoji.gg/emojis/420694-heart.png" width="25px"> Currently hacking on...
 
 * Discord bot experiments
-* Waves Studio projects
 * Learning OSINT
 * Breaking my Arch install (again) <img src="https://cdn3.emoji.gg/emojis/365745-cutecatface.gif" width="25px" align="right">
 
@@ -46,11 +45,6 @@ Mostly working on **Discord bots and random experiments for fun**.
 <img src="https://img.shields.io/badge/JavaScript-1f1f1f?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/><img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/><img src="https://img.shields.io/badge/CSS-639?style=for-the-badge&logo=css&logoColor=white"/>
 
 ---
-## <img src="https://cdn.discordapp.com/emojis/1373717536528400496.png" width="25px">aves Studio
-
-Game & software development studio project.
-> https://waves-studio.xyz <img src="https://cdn3.emoji.gg/emojis/78468-spinningfish.gif" width="25px" align="right">
-
 ## <img src="https://cdn3.emoji.gg/emojis/531419-friends.png" width="25px"> Friends' projects
 
 ### <img src="https://media.discordapp.net/attachments/1324803032487170080/1465479146493706313/logo_1705784166.png?ex=69acabcf&is=69ab5a4f&hm=fb2abfe70f0612a007fa76bd44026250b37317c39d3bcc7834db5e1c2c743f22&=&format=webp&quality=lossless&width=969&height=969" width="30px"> KiwiSocial
