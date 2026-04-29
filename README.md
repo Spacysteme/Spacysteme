@@ -64,6 +64,7 @@ A modern communication platform.
 <img src="https://img.shields.io/badge/Hyprland-E496A7?style=for-the-badge&logo=arch-linux&logoColor=white"/> <img src="https://img.shields.io/badge/CPU-i5--14400F-E496A7?style=for-the-badge&logo=intel&logoColor=white"/> <img src="https://img.shields.io/badge/GPU-RX_9060_XT-E496A7?style=for-the-badge&logo=amd&logoColor=white"/> <img src="https://img.shields.io/badge/RAM-16GB_DDR4-E496A7?style=for-the-badge"/> <img src="https://cdn3.emoji.gg/emojis/15583-oneko-sleep.gif" width="25px" align="right">
 
 </div>
+
 ---
 ## <img src="https://cdn3.emoji.gg/emojis/80963-share2.png" width="25px"> Contact
 
