@@ -64,7 +64,7 @@ Mostly working on **Discord bots and random experiments for fun**.
 </div>
   
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Spacysteme&show_icons=true&hide_border=true&bg_color=0d1117&title_color=E496A7&icon_color=E496A7&text_color=c9d1d9" alt="GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Spacysteme&show_icons=true&hide_border=true&bg_color=0d1117&title_color=E496A7&icon_color=E496A7&text_color=c9d1d9&hide=issues,prs" alt="GitHub stats"/>
 </div>
 
 ---
