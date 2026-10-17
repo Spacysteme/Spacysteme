@@ -33,7 +33,7 @@
 ```
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1200&color=E496A7&center=true&vCenter=true&width=520&lines=Discord+bot+developer;OSINT+learner;French+indie+dev" alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1200&color=E496A7&center=true&vCenter=true&width=520&lines=Discord+Bot+Developer;OSINT+learner;French+indie+dev" alt="Typing animation"/>
 </div>
 
 <img src="https://cdn3.emoji.gg/emojis/67313-whitebalisong.gif" width="22px" align="absmiddle" alt=""> **Discord bot developer · OSINT learner**
