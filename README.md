@@ -100,7 +100,7 @@ Mostly working on **Discord bots and random experiments for fun**.
 </div>
 
 <p align="center">
-  <img src="gd-level.svg" width="700" alt="Geometry Dash level">
+  <img src="gd-lvl.svg" width="700" alt="Geometry Dash level">
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=E496A7&height=100&section=footer" width="100%" alt="">
